@@ -16,7 +16,7 @@ st.caption("From a long time suicide it's been a major problem for NGOs and gove
 
 # Loading the Data
 st.header("First of all lets take a clear view on the Datframe that we have")
-data = pd.read_csv("C:/Users/Aziz/Desktop/HealthCare Analytics/Ind project/master.csv")
+data = pd.read_csv("master.csv")
 print(data)
 st.write(data)
 
