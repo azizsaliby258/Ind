@@ -1,12 +1,12 @@
 # Import Libraries 
 import streamlit as st
 import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt 
+import numpy as np 
 import plotly.figure_factory as ff
 import seaborn as sns
 import plotly.graph_objects as go
 import plotly.express as px
+import matplotlib.pyplot as plt 
 
 # Setting a title for the streamlit app
 st.title('Suicide')
